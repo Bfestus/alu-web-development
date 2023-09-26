@@ -1,4 +1,4 @@
-![Alt text](image.png)
+![HTML](image.png)
 
 # HTML ADVANCED
 
