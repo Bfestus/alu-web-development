@@ -1,0 +1,19 @@
+header {
+    background-image: url(BitmapReal.png);
+    background-size: cover; /* Adjust to 'contain' or specific values as needed */
+    background-position: center;
+    text-align: center;
+    padding: 230px;
+    height: 400px;
+    margin: 12px;
+  }
+
+.quote{
+    background-color: blueviolet;
+    border-radius: ;
+}
+  
+    
+
+
+
